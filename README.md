@@ -1,5 +1,5 @@
 # fruit-puree-spectra
-983 FTIR (MIR-ATR) spectra of fresh fruit purees. 
+Fourier Transform Infrared Spectra of 983 fresh fruit purees. 
 
 Obtained using Fourier transform infrared (FTIR) spectroscopy with attenuated total reflectance (ATR) sampling.
 Independent samples, prepared from raw fruits, as follows: 351 pure strawberry, 159 pure raspberry, and the remainder 'neither' (these include a variety of other fruits, as well as 'adulterated' strawberry and raspberry purees, containing >10% w/w of other fruits). 
